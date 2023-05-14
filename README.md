@@ -9,5 +9,3 @@ Meu nome é João Victor Cancelier
 ### Você pode entrar em contato comigo :mailbox
 
 joaovcancelier@gmail.com
-
-![descrição do GIF](link GIF do Tenor)
